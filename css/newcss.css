@@ -1,0 +1,168 @@
+body{
+ background-color: black;
+    font-family: 'Arvo', serif;
+    
+}
+
+#get-involved{
+    background-color: black;
+}
+#para {
+    padding-top: 370px;
+}
+.futr{
+    background-color:darkcyan;
+    padding-top: 250px;
+    padding-bottom: 20px;
+}
+.container h2{
+    font-family: 'Arvo',sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.heading {
+    color: white;
+}
+
+.container {
+        text-align: center;
+    color: white;
+        font-family: 'Arvo', serif;
+        
+
+}
+
+.inv {
+    
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.heading{
+    
+    color: white;
+    font-family: 'Arvo';
+    font-size: 30px;
+    
+}
+
+.masthead h1 {
+    text-align: left;
+    outline-color: white;
+    font-family: 'Arvo', sans-serif; color: white;
+    padding: 50px;
+    
+}
+
+.row {
+    margin-left: 40px;
+}
+hr {
+    border-color: darkslategray;
+  width: 160px;
+  margin: 5px auto;
+    padding-bottom: 20px;
+}
+
+.col-lg-3 p {
+    padding-bottom: 30px;
+    
+}
+.meow {
+    padding-bottom: 30px;
+}
+
+
+
+.col-lg-4 p {
+    padding-bottom: 60px;
+    
+}
+.col-lg-4 a {
+    color:darkslategrey;
+}
+.lead{
+ padding-bottom: 30px; 
+    margin-left: 100px;
+    text-align: center;
+}
+.masthead ul {
+    background-color: beige;
+}
+
+.jumbotron{
+    background-image: url(../imgs/space-background1.png);
+    color:white;
+    text-align: center;
+}
+
+
+.col-lg-4 {
+    color:darkslategrey;
+    margin-left: auto;
+}
+
+.jumbotron h1 {
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+.jumbotron p {
+    
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+.footer p {
+    margin-left: 30px;
+}
+/* responsive styling*/
+@media (max-width: 1199px) {
+    #who-we-are{
+    font-size: 14px;
+    }
+    .row{
+        margin-top: 20px;
+        text-align: center;
+        padding-right: 40px;
+    }
+    .row p{
+        margin-top: 30px;
+        font-size: 22px;
+        padding-left: 70px;
+        padding-right: 70px;
+        margin-bottom: -50px;
+
+    }
+    .col-lg-4 {
+        padding-bottom: 70px;   
+    }
+}
+@media (max-width: 768px) {
+    #who-we-are{
+        margin-left: 30px;
+        margin-top: -270px;
+    }
+    #who-we-are h2{
+        padding-top: 10px;
+        margin-top: -5px;
+    }
+    .jumbotron h1{
+        font-size: 50px;
+    }
+     
+    .lead{
+        margin-left: 10px;
+    }
+    
+    .inv{
+        padding-bottom: 30px;
+    }
+    .row p{
+        margin-top: 20px;
+        padding-top: -10px;
+        padding-bottom: 40px;
+
+}
+}
