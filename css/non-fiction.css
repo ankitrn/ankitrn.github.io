@@ -1,4 +1,13 @@
-para{
+p{
 
 display: flex;
+font-size: 22px;
+}
+.heading{
+ margin: 0px, auto;
+ padding: 30px;
+ font-size: 35px;
+}
+h3{
+font-size: 25px;
 }
