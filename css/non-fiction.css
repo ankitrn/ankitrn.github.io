@@ -1,10 +1,10 @@
 p{
 
 display: flex;
-font-size: 22px;
+font-size: 21px;
 }
 .heading{
- margin: 0px, auto;
+ margin: 0 auto;
  padding: 30px;
  font-size: 35px;
 }
