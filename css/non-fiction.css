@@ -2,6 +2,8 @@ p{
 
 display: flex;
 font-size: 21px;
+padding-left: 35px;
+padding-right: 35px;
 }
 .heading{
  margin: 0 auto;
